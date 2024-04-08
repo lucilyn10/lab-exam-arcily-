@@ -1,0 +1,32 @@
+.text1{
+    position: absolute;
+    top: 1%;
+    color: rgb(8, 104, 104);
+}
+.image{
+    position: absolute;
+    left: 19%;
+    border-radius: 10%;
+    top: 17%;
+    border-radius: 50%;
+    border-color:rgb(8, 104, 104) ;
+    
+}
+
+.text2{
+    top: 39%;
+    position: absolute;
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+}
+.BOX{
+    background-color:rgb(8, 104, 104)  ;
+    margin-top: 100px;
+    margin-left: 250px;
+    margin-right: 650px;
+    box-shadow: 10px 10px;
+    width: auto;
+    height: 500px;
+
+}
